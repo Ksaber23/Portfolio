@@ -7,3 +7,20 @@
 .Header:hover {
     color:aqua;
 }
+
+.UserTesting {
+    align: left;
+}
+
+.Project1{
+    width: 30%;
+        height: 30%;
+    align: left;
+    display: inline;
+}
+
+.Project1text{
+    display: inline;
+    align: center; 
+}
+
