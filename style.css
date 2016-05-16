@@ -1,6 +1,11 @@
 .Header{
-    font-size: 40px;
+    font-size: 230%;
     text-align: center;
+      text-shadow: 1px .25px;
+      
+   
+   
+
 }
 
 
@@ -10,9 +15,13 @@
 
 .UserTesting {
     align: left;
+      text-shadow: 1px .25px;
+     
 }
 
 .Project1{   
+    color:darkblue;
+    text-shadow: 1px .25px;
     align: left;
     float:left;
 }
