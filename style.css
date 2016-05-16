@@ -12,9 +12,7 @@
     align: left;
 }
 
-.Project1{
-    width: 40%;
-        height: 40%;
+.Project1{   
     align: left;
     float:left;
 }
@@ -27,11 +25,31 @@
 .description {
    
    position: absolute;
-    left: 0%;
-    top: 16%;
+    left: 8%;
+    margin-top: -8%;
     width: 100%;
     text-align: center;
     
     
 }
+
+.description2 {
+       
+   position: absolute;
+    left: 5%;
+    margin-top: -10%;
+    width: 100%;
+    text-align: center;
+    
+}
+
+.Project2 {
+    align: left;
+    Position: relative; 
+    left: 0%;
+    margin-top: 15%;
+    
+}
+    
+
 
