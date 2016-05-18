@@ -22,22 +22,21 @@
 .Project1{   
     color:darkblue;
     text-shadow: 1px .25px;
-    align: left;
-    float:left;
+    position: relative;
+     top: 50%;
+  left: 45%;
 }
 
 .Project1text{
     display: inline;
-    align: center; 
+     
 }
 
 .description {
    
    position: absolute;
-    left: 8%;
-    margin-top: -8%;
-    width: 100%;
-    text-align: center;
+    width: 50;
+   
     
     
 }
@@ -45,18 +44,21 @@
 .description2 {
        
    position: absolute;
-    left: 5%;
-    margin-top: -10%;
-    width: 100%;
-    text-align: center;
+    
+    left: 45%;
+    text-shadow: 1px .25px;
+    color:darkblue;
+    
     
 }
 
 .Project2 {
+    
     align: left;
     Position: relative; 
-    left: 0%;
+    left: 45%;
     margin-top: 15%;
+       text-shadow: 1px .25px;
     
 }
     
